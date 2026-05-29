@@ -1,8 +1,8 @@
-# Olá! Eu sou Julio 👋
+# Olá! Eu sou o Julio Cesar 👋
 🎓 Estudante de Ciência da Computação no IMT Mauá
 
 💻 Atualmente estudando:
-Python
+Python 
 MySQL
 SQL
 Desenvolvimento de Software
