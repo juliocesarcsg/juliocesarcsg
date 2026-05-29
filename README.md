@@ -8,11 +8,11 @@
 - Desenvolvimento de Software
 
 🚀 Projetos:
-Sistema de login integrado com MySQL
-Projetos acadêmicos em programação
+- Sistema de login integrado com MySQL
+- Projetos acadêmicos em programação
 
 📚 Interesse em:
-Backend
-Banco de Dados
-Desenvolvimento de Software
-Tecnologia
+- Backend
+- Banco de Dados
+- Desenvolvimento de Software
+- Tecnologia
