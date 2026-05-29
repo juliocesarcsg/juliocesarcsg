@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou Julio 👋
+🎓 Estudante de Ciência da Computação no IMT Mauá
 
-<!--
-**juliocesarcsg/juliocesarcsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente estudando:
+Python
+MySQL
+SQL
+Desenvolvimento de Software
 
-Here are some ideas to get you started:
+🚀 Projetos:
+Sistema de login integrado com MySQL
+Projetos acadêmicos em programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Interesse em:
+Backend
+Banco de Dados
+Desenvolvimento de Software
+Tecnologia
