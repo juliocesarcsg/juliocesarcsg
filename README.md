@@ -2,10 +2,10 @@
 🎓 Estudante de Ciência da Computação no IMT Mauá
 
 💻 Atualmente estudando:
-Python 
-MySQL
-SQL
-Desenvolvimento de Software
+- Python 
+- MySQL
+- SQL
+- Desenvolvimento de Software
 
 🚀 Projetos:
 Sistema de login integrado com MySQL
