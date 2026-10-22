@@ -10,12 +10,12 @@
       <strong>🛠️ Technologies & Tools</strong>
       <br><br>
       <div>
-  <img src="https://skillicons.dev/icons?i=java&theme=light" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-</div>
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+      </div>
     </td>
     <td valign="top" width="60%">
       <a href="https://github.com/juliocesarcsg">
