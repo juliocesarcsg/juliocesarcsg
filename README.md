@@ -7,7 +7,8 @@
 <table>
   <tr>
     <td valign="top" width="40%">
-      <h3 style="margin-top: 0;">🛠️ Technologies & Tools</h3>
+      <strong>🛠️ Technologies & Tools</strong>
+      <br><br>
       <div>
         <img src="https://skillicons.dev/icons?i=java&theme=dark" />
         <br/>
