@@ -10,12 +10,12 @@
       <strong>🛠️ Technologies & Tools</strong>
       <br><br>
       <div>
-        <a href="https://dev.java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white" /></a>
-<br/>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<br/>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-      </div>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+</div>
     </td>
     <td valign="top" width="60%">
       <a href="https://github.com/juliocesarcsg">
