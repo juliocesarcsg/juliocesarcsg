@@ -4,27 +4,21 @@
 💻 Aspiring Backend Developer interested in **Java, SQL, and database systems**.  
 📚 Currently developing my programming skills through practical projects.
 
-
 <table>
   <tr>
     <td valign="top" width="40%">
-      <h3>🛠️ Technologies & Tools</h3>
-      <table>
-        <tr>
-          <td>
-            <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-          </td>
-          <td>
-            <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-          </td>
-          <td></td>
-        </tr>
-      </table>
+      <h3 style="margin-top: 0; padding-top: 0;">🛠️ Technologies & Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+      </a>
     </td>
     <td valign="top" width="60%">
       <a href="https://github.com/juliocesarcsg">
@@ -33,7 +27,6 @@
     </td>
   </tr>
 </table>
-
 
 ### 🤝 Connect with Me
 
