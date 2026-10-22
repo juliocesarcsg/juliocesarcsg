@@ -6,16 +6,16 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
       <h3>🛠️ Technologies & Tools</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" />
       </a>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="45%">
       <h3>📊 Most Used Languages</h3>
       <a href="https://github.com/juliocesarcsg">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcsg&layout=compact&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcsg&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="100%" />
       </a>
     </td>
   </tr>
