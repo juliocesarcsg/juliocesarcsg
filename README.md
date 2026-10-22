@@ -10,11 +10,11 @@
       <strong>🛠️ Technologies & Tools</strong>
       <br><br>
       <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
       </div>
     </td>
     <td valign="top" width="60%">
