@@ -7,18 +7,14 @@
 <table>
   <tr>
     <td valign="top" width="40%">
-      <h3 style="margin-top: 0; padding-top: 0;">🛠️ Technologies & Tools</h3>
-      <a href="https://skillicons.dev">
+      <h3>🛠️ Technologies & Tools</h3>
+      <div>
         <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-      </a>
-      <br/>
-      <a href="https://skillicons.dev">
+        <br/>
         <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-      </a>
-      <br/>
-      <a href="https://skillicons.dev">
+        <br/>
         <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-      </a>
+      </div>
     </td>
     <td valign="top" width="60%">
       <a href="https://github.com/juliocesarcsg">
