@@ -4,13 +4,24 @@
 💻 Aspiring Backend Developer interested in **Java, SQL, and database systems**.  
 📚 Currently developing my programming skills through practical projects.
 
-### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql&theme=dark)](https://skillicons.dev) 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>🛠️ Technologies & Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" />
+      </a>
+    </td>
+    <td valign="top" width="40%">
+      <h3>📊 Most Used Languages</h3>
+      <a href="https://github.com/juliocesarcsg">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcsg&layout=compact&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📊 Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarcsg&layout=compact&theme=github_dark&hide_border=true)](https://github.com/juliocesarcsg)
 
 ### 🤝 Connect with Me
 
