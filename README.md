@@ -6,7 +6,7 @@
 
 ### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql&theme=dark)](https://skillicons.dev) 
 
 ### 📊 Most Used Languages
 
