@@ -6,7 +6,7 @@
 
 ### 🛠️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github&theme=dark" alt="Skills" />
+<img src="./skills.svg" alt="Java, Python, MySQL, Git, GitHub" height="48" />
 
 ### 🤝 Connect with Me
 
