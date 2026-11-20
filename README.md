@@ -1,8 +1,8 @@
 # Hi, I'm Julio Cesar 👋
 
-🎓 Computer Science student at **IMT Mauá**  
-💻 Aspiring Backend Developer interested in **Java, SQL, and database systems**.  
-📚 Currently developing my programming skills through practical projects.
+- Computer Science student at **IMT Mauá**  
+- Aspiring Backend Developer interested in **Java, SQL, and database systems**.  
+- Currently developing my programming skills through practical projects.
 
 ### 🛠️ Technologies & Tools
 
